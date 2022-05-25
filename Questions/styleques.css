@@ -1,0 +1,55 @@
+.problemstatement
+{
+    margin-top: 5%;
+text-align: center;
+
+}
+.hint
+{
+   justify-content: center;
+   margin-left: 50%;
+   margin-top: 2%;
+}
+#hinttext
+{
+    justify-content: center;
+    visibility: hidden;  
+    /* margin-left: 40%; */
+    margin-top: 2%;
+    
+}
+.approach
+{
+    margin-top: 5%;
+text-align: center;
+text-overflow: clip;
+padding-left: 25%;
+padding-right: 25%;
+}
+.diagram
+{
+    margin-top: 5%;
+    text-align: center;
+}
+.videoexplain 
+{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.code 
+{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.diagramimage
+{
+    margin-top: 5%;
+    margin-left: 9%;
+    justify-content: center;
+    height:80%;
+    width: 80%;
+    border: 5px solid;
+    border-color: black;
+}
