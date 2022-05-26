@@ -15,3 +15,59 @@ text-align: center;
     visibility: hidden;
     
 }
+.abouttopic
+{
+    margin-top: 5%;
+    text-align: center;
+}
+.questionbuttons
+{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.subtopic
+{
+    margin-top: 2%;
+    
+}
+
+#footer
+  {
+      text-align: center;
+      font-family: 'Spline Sans Mono', monospace;
+      padding: 1% 1%;
+      background-image: #007bff;
+      
+      z-index: 1;
+      color: black;
+      font-size: 1.3rem;
+  }
+  .icon1
+  {
+    padding-right: 1rem;
+    color: #007bff;
+    transform: scale(1.05);
+    transition: 1s;
+
+
+  }
+  .icon1:hover
+  {
+    color: black;
+    transform: scale(1.15);
+  }
+  .icon3
+  {
+    margin-bottom: 7px;
+    padding-bottom: 26px;
+    height: 80px;
+    width:60px;
+    padding-right: 6px ;
+  }
+  .icon3:hover 
+  {
+    /* background-image: blueviolet; */
+    /* color: blueviolet; */
+    transform: scale(1.15);
+  }
